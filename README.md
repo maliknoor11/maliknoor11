@@ -2,7 +2,7 @@
 
 **Data Scientist · Machine Learning & AI Solutions · Microsoft Certified: Azure Fundamentals (AZ-900)**
 
-I'm an Omani data scientist working with AhliBank Oman's Innovation Team through the Omantel Academy National Development Program. I work directly with business teams to turn real problems into AI solutions, from collecting the data and building the model to getting people to use it.
+I'm an Omani data scientist working with AhliBank Oman's Innovation Team. I work directly with business teams to turn real problems into AI solutions, from collecting the data and building the model to getting people to use it.
 
 ### 🔭 Featured projects
 
