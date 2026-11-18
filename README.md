@@ -13,10 +13,10 @@ I'm an Omani data scientist working with AhliBank Oman's Innovation Team through
 
 ### 🛠️ Tools I use
 
-**Languages:** Python · SQL · Java · JavaScript
-**ML & data:** scikit-learn · PyTorch · TensorFlow · pandas · NumPy · OpenCV · YOLO
-**GenAI & automation:** LLM integration · n8n · Claude Code · OpenAI Codex
-**Cloud & engineering:** Microsoft Azure · Git · Linux
+- **Languages:** Python · SQL · Java · JavaScript
+- **ML & data:** scikit-learn · PyTorch · TensorFlow · pandas · NumPy · OpenCV · YOLO
+- **GenAI & automation:** LLM integration · n8n · Claude Code · OpenAI Codex
+- **Cloud & engineering:** Microsoft Azure · Git · Linux
 
 ### 🎓 Background
 
